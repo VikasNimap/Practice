@@ -83,3 +83,13 @@
 //     }
 // }
 // console.log(max2);
+// let integer = 123;
+// function reverse(integer) {
+//     let array = [];
+//     array.push(integer)
+//     console.log(array);
+//     array.reverse()
+
+// }
+
+// (reverse(integer))
