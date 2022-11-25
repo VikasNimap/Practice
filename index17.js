@@ -1,3 +1,49 @@
+// let number="123456789"
+// let splitnumber=number.split('')
+// console.log(splitnumber);
+
+// let num = 12345
+// function reverse(num){
+//     return(
+//        parseFloat (
+//             num
+//             //.split('')
+//             .reverse()
+//             .join('')
+
+//         )
+//     )
+// }
+// console.log(reverse(num));
+// let data = [1,22,33,44,99,99,88,12];
+// let max1 = 0;
+// let max2 = 0;
+// for(let i = 0;i<data.length;i++){
+//     if(data[i]>max1){
+//         max2=max1;
+//         max1=data[i];
+//     }
+//     else if(data[i]>max2){
+//         max2=data[i]
+//     }
+// }
+// console.log(max2);
+// let num = 2341;
+// let store = "";
+// while(num>0){
+//    let rem=num%10
+//    store+=rem
+//     num=Math.floor(num/10)
+// }
+// console.log(Number(store));
+// let num = 35;
+// let store = '';
+// while(num>0){
+//     let rem=num%10
+//     store+=rem
+//     num=Math.floor(num/10)
+// }
+// console.log(store);
 // let data = [1,2,3,45,66];
 // data[3] = undefined
 // console.log(data);
