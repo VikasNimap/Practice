@@ -45,3 +45,11 @@
 
 
 
+//Q5 // let str = "Vikas";                                  // reverse of string
+// let a = Array.from(str);
+// a=a.reverse().toString().replaceAll(',',"")
+// console.log(a);
+
+
+
+
