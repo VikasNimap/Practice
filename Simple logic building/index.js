@@ -13,8 +13,25 @@
 // }
 // console.log(max2);
 
-//Q2 // 
+//Q2 // let num = 456;                                            //reverse of an integer
+// let num = 123;
+// let str = '';
+// while(num>0){
+//         let res = num%10
+//         str += res
+//        num = Math.floor(num/10)
 
+// }
+// console.log(str);
+
+
+//Q3 //// let a = 10;                                         //Swapping without 3rd variable
+// let b = 12;
+// a=a+b
+// b=a-b
+// a=a-b
+// console.log(a);
+// console.log(b);
 
 
 
