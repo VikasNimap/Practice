@@ -33,6 +33,15 @@
 // console.log(a);
 // console.log(b);
 
+//Q4 //function anagram(str1,str2){                         //Check anagram string
+//         let a = Array.from(str1).sort().join('')
+//         let b = Array.from(str2).sort().join('')
+//         if(a===b) console.log(`The given string is Anagram`);
+        
+//         else console.log(`The given string does not follow Anagram property`);
+        
+// }
+// anagram("heart","earth")
 
 
 
